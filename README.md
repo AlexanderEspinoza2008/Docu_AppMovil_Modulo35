@@ -1,6 +1,9 @@
 # Documentación Oficial - Proyecto Aplicación Móvil (Módulo 3.5)
-Esta es la documentación técnica formal de la aplicación móvil desarrollada para el Módulo 3.5,
-estructurada bajo el estándar *Docs-as-Code*.
+
+🌐 **Sitio Web desplegado en vivo:** [Ver Documentación en GitHub Pages](https://alexanderespinoza2008.github.io/Docu_AppMovil_Modulo35/)
+
+Esta es la documentación técnica formal de la aplicación móvil desarrollada para el Módulo 3.5, estructurada bajo el estándar *Docs-as-Code*.
+
 ## Índice de Documentación
 - [Ver Diagrama de Casos de Uso](docs/casos_de_uso.md)
 - [Ver Diagrama de Secuencia](docs/secuencia.md)
@@ -8,5 +11,3 @@ estructurada bajo el estándar *Docs-as-Code*.
 - [Ver Especificación de API y Servicios](docs/api_endpoints.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
-
-- 
