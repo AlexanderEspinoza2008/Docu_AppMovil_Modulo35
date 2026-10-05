@@ -2,7 +2,7 @@
 
 🌐 **Sitio Web desplegado en vivo:** [Ver Documentación en GitHub Pages](https://alexanderespinoza2008.github.io/Docu_AppMovil_Modulo35/)
 
-Esta es la documentación técnica formal de la aplicación móvil desarrollada para el Módulo 3.5, estructurada bajo el estándar *Docs-as-Code*.
+
 
 ## Índice de Documentación
 - [Ver Diagrama de Casos de Uso](docs/casos_de_uso.md)
