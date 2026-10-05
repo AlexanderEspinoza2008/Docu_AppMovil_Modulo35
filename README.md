@@ -8,3 +8,5 @@ estructurada bajo el estándar *Docs-as-Code*.
 - [Ver Especificación de API y Servicios](docs/api_endpoints.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+
+- 
