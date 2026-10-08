@@ -9,8 +9,11 @@ Bienvenido a la documentación oficial de la aplicación móvil. Desde aquí pue
 - [Guía de Instalación](instalacion_movil.md)
 - [Especificación de API](api_endpoints.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Manual de Usuario](manual_usuario.md)
 =======
+=======
+>>>>>>> 1506dd6 (Resuelve conflicto de fusion)
 - [Manual de Usuario](manual_usuario.md)
 
 ---
@@ -42,4 +45,10 @@ Arquitectura basada en componentes funcionales con React Hooks (`useState`, `use
 - **UI/UX y Rendimiento:** Interfaz optimizada con listas en `FlatList`, diseño estilizado con gradientes y navegación fluida entre vistas.
 - **Seguridad Básica:** Indicadores dinámicos de contraseña y validación de campos vacíos.
 - **Conclusión:** La app cumple con los estándares requeridos para un e-commerce educativo, logrando una experiencia funcional, fluida y con datos persistentes.
+<<<<<<< HEAD
 >>>>>>> 1892e6f (index.md docs)
+=======
+=======
+- [Manual de Usuario](manual_usuario.md)
+>>>>>>> a7dcac8 (index.md docs)
+>>>>>>> 1506dd6 (Resuelve conflicto de fusion)
