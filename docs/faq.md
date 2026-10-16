@@ -12,11 +12,6 @@ Se requiere un dispositivo con conexión a Internet y un navegador web moderno (
 
 ## 🎬 Videotutorial de Demostración del Sistema
 
-Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
-
-<video ## 🎬 Videotutorial de Demostración del Sistema
-
 Si prefieres ver la explicación en video, visualiza o descarga el recorrido guiado por el equipo de desarrollo:
 
 [▶️ Haz clic aquí para ver/descargar el Videotutorial del Proyecto](videotutorial_proyecto.mp4)
-</video>
