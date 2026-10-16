@@ -12,10 +12,13 @@ Se requiere un dispositivo con conexión a Internet y un navegador web moderno (
 
 ## 🎬 Videotutorial de Demostración del Sistema
 
-Si prefieres ver la explicación en video, visualiza o descarga el recorrido guiado por el equipo de desarrollo:
+Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
 
-[▶️ Reproducir / Descargar Videotutorial del Proyecto](videotutorial_proyecto.mp4)
+[▶️ Ver Videotutorial en Pantalla Completa](https://media.githubusercontent.com/media/AlexanderEspinoza2008/Docu_AppMovil_Modulo35/main/docs/videotutorial_proyecto.mp4)
 
-<video src="videotutorial_proyecto.mp4" controls width="100%">
+---
+
+<video src="https://media.githubusercontent.com/media/AlexanderEspinoza2008/Docu_AppMovil_Modulo35/main/docs/videotutorial_proyecto.mp4" controls width="100%">
   Tu navegador no soporta la reproducción de video.
+  [Descargar video aquí](https://media.githubusercontent.com/media/AlexanderEspinoza2008/Docu_AppMovil_Modulo35/main/docs/videotutorial_proyecto.mp4)
 </video>
