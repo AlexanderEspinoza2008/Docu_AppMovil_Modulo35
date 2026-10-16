@@ -14,7 +14,7 @@ Se requiere un dispositivo con conexión a Internet y un navegador web moderno (
 
 Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:
 
-<video src="videos/videotutorial_proyecto.mp4" controls width="100%">
+<video src="assets/videotutorial_proyecto.mp4" controls width="100%">
     Tu navegador no soporta la reproducción de video HTML5.
-    [Haz clic aquí para descargar el video](videos/videotutorial_proyecto.mp4).
+    [Haz clic aquí para descargar el video](assets/videotutorial_proyecto.mp4).
 </video>
