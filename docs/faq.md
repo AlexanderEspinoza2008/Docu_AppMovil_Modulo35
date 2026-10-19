@@ -14,4 +14,4 @@ Se requiere un dispositivo con conexión a Internet y un navegador web moderno (
 
 Si prefieres ver la explicación en video, visualiza o descarga el recorrido guiado por el equipo de desarrollo:
 
-[▶️ Ver/Descargar Videotutorial del Proyecto](https://github.com/AlexanderEspinoza2008/Docu_AppMovil_Modulo35/raw/main/docs/videotutorial_proyecto.mp4)
+[▶️ Descargar Videotutorial del Proyecto](https://github.com/AlexanderEspinoza2008/Docu_AppMovil_Modulo35/raw/main/docs/videotutorial_proyecto.mp4)
