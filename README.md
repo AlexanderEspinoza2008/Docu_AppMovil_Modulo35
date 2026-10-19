@@ -2,8 +2,6 @@
 
 🌐 **Sitio Web desplegado en vivo:** [Ver Documentación en GitHub Pages](https://alexanderespinoza2008.github.io/Docu_AppMovil_Modulo35/)
 
-
-
 ## Índice de Documentación
 - [Ver Diagrama de Casos de Uso](docs/casos_de_uso.md)
 - [Ver Diagrama de Secuencia](docs/secuencia.md)
@@ -11,3 +9,7 @@
 - [Ver Especificación de API y Servicios](docs/api_endpoints.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+
+## Licencia y Gobernanza
+* Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
+* Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o proponer mejoras.
